@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/polymagic/static/css/main.db3df2d8.css",
+    "main.js": "/polymagic/static/js/main.6d7980fb.js",
+    "static/js/787.158c1991.chunk.js": "/polymagic/static/js/787.158c1991.chunk.js",
+    "static/media/jumper3dicon.webp": "/polymagic/static/media/jumper3dicon.21ebb3d139bef82f5c80.webp",
+    "static/media/levelupcubesicon.webp": "/polymagic/static/media/levelupcubesicon.0237cd856e26f4b48aa2.webp",
+    "static/media/logo.svg": "/polymagic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/squarestackericon.webp": "/polymagic/static/media/squarestackericon.f5f362fc91a765ae521e.webp",
+    "index.html": "/polymagic/index.html",
+    "main.db3df2d8.css.map": "/polymagic/static/css/main.db3df2d8.css.map",
+    "main.6d7980fb.js.map": "/polymagic/static/js/main.6d7980fb.js.map",
+    "787.158c1991.chunk.js.map": "/polymagic/static/js/787.158c1991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3df2d8.css",
+    "static/js/main.6d7980fb.js"
+  ]
+}
